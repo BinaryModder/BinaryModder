@@ -1,5 +1,6 @@
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="600" height="300"/>
+  <img src = "https://www.codewars.com/users/BinaryModder/badges/small?theme=light"/>
 </div>
 
 <h1 align="center">💫 About Me</h1>
@@ -15,7 +16,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1modder.path1@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/terrifiying)
-<img src = "https://www.codewars.com/users/BinaryModder/badges/small?theme=light"/>
 
 ## 💻 Tech Stack:
 
