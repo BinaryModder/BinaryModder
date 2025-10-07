@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="600" height="300"/>
   <img src = "https://www.codewars.com/users/BinaryModder/badges/small?theme=light"/>
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+,+everyone)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=0002F7&width=435&separator=%3D&lines=std%3A%3Acout+%3C%3C+Hi+everyone+%3A)+%3C%3C+%22%5Cn%22;%3Dreturn+0;)](https://git.io/typing-svg)<br>
 <h1 align="center">💫 About Me</h1>
 
 + 🥷 Developer from Krasnodar, Russia
