@@ -1,9 +1,8 @@
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="600" height="300"/>
   <img src = "https://www.codewars.com/users/BinaryModder/badges/small?theme=light"/>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+,+everyone+,+😎)](https://git.io/typing-svg)
 </div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+,+everyone+,+😎)](https://git.io/typing-svg)<br>
 <h1 align="center">💫 About Me</h1>
 
 + 🥷 Developer from Krasnodar, Russia
