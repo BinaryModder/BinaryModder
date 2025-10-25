@@ -17,7 +17,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1modder.path1@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/terrifiying)
-[![SoundCloud](https://on.soundcloud.com/a84UpnCyGOG4tnXIb1)]
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://on.soundcloud.com/a84UpnCyGOG4tnXIb1)
+
 
 ## 💻 Tech Stack:
 
