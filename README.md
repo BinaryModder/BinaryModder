@@ -86,10 +86,6 @@
 
 ---
 
-## 🎵 Now Playing
-
-[![YouTube Music: MGMT - Time to Pretend](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/watch?v=B9dSYgd5Elk&si=-UyUOpbzL8kbFdrw)
-
 ## Contribution Graph
 
 <picture>
