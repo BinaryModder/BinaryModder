@@ -73,11 +73,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BinaryModder&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryModder&layout=compact&theme=radical&hide_border=true)
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BinaryModder&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
