@@ -6,7 +6,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=0002F7&width=435&separator=%3C&lines=return+0;" alt="Typing SVG" /></a><br>
 <h1 align="center">💫 About Me</h1>
 
-+ 🥷 Developer from Krasnodar, Russia
++ 🥷 Developer from Kazan, Russia
++ ITIS Student 💙
 + 😈 Obsessed with clean and efficient code
 + 👨‍💻 Core member of Code Forge team
 + 💻 Software & Backend Developer
