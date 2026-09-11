@@ -7,7 +7,7 @@
 <h1 align="center">💫 About Me</h1>
 
 + 🥷 Developer from Kazan, Russia
-+ ITIS Student 💙
++ 💙 ITIS Student 💙
 + 😈 Obsessed with clean and efficient code
 + 👨‍💻 Core member of Code Forge team
 + 💻 Software & Backend Developer
