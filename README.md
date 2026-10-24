@@ -12,7 +12,6 @@
 + 👨‍💻 Core member of Code Forge team
 + 💻 Software & Backend Developer
 + 🚀 Open to collaborations and innovative projects
-+ 🤝Also refer to [IvanZhutyaev](https://github.com/IvanZhutyaev)
 
 ## 🌐 Socials & Contact:
 
